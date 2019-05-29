@@ -5,4 +5,9 @@ public class runnerA implements partnerA{
         };
         pA.returnQuotient(5f, 3f);
     }
+
+    @Override
+    public void returnQuotient(float a, float b) {
+
+    }
 }
